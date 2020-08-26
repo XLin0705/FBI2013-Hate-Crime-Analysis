@@ -2,8 +2,9 @@
 ## Team members. Justification for 2 and 3 team members.
 
 - Jingxiu Hu
-- Tianxin Deng
 - Xiao Lin
+- Tianxin Deng
+
 
 ## Problems/Motivation.
 
@@ -38,16 +39,14 @@ The problem we want to solve is the find the State that has the highest rate of 
 ## What is the predictive task and model detail. Model evaluation and selection strategy.
 - We are going to try to fit a linear regression model to the data to see is there a linear relationship between number of population and total hate crime number.
 
-## How a user is going to test the final model. is there any webpage/command line interface. It can be like using curl from command line and calling a function(lambda via API gateway) in the cloud(AWS).
-- A website is used. Users can test the data on it by building functions. 
 
 ## Tentative Timeline
 Steps and Outlines  |  Roughly Time Estimate
 ------------------  |  ---------------------
 Data Cleanup  |  Set up Python and dataframe process: 3 weeks
-Data Cleanup  |  Debug and increasing effectiveness: 1 month
+Data Cleanup  |  Debug and increasing effectiveness: 1 week
 Transformation  |  Written in PPT format: 1 week
-Featuring Engineering  |  Do statistics work for cleaned dataframe: 1 month
+Featuring Engineering  |  Do statistics work for cleaned dataframe: 1 week
 Summary  |  Collect all the calculate results from previous work: 1 week
 Visualization  |  Use all the datas to get plots and maps: 3 weeks
 
